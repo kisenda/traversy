@@ -1,0 +1,5 @@
+fast move :
+1. shift + highlight
+2. Ctrl + d
+
+fonts.google.com
