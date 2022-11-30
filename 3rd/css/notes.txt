@@ -1,0 +1,7 @@
+source : https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
+
+https://fontawesome.com/
+
+<video controls src="videos/gone.mp4" id="video" class="screen" poster="img/poster.png"></video>
+
+remember ada function default : controls
