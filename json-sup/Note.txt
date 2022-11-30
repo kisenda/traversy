@@ -1,0 +1,7 @@
+Fungsi/ Tujuan JS:
+utk membuat Dinamik website NOT only Static web.
+
+
+Evaluasi github from CmdLine :
+1. belum git add .
+2. belum git commit -m "ini pesan"

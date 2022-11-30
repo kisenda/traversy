@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "name": "Brad",
+      "age": 35
+    },
+    {
+      "name": "John",
+      "age": 30
+    },
+    {
+      "name": "sara",
+      "age": 25
+    }
+  ],
+  "live": [
+    {
+      "street": "main street",
+      "city": "Kediri"
+    },
+    {
+      "street": "second line",
+      "city": "Malang"
+    },
+    {
+      "street": "third line",
+      "city": "bogor"
+    },
+    {
+      "street": "4th line",
+      "city": "surakarta"
+    }
+  ]
+}

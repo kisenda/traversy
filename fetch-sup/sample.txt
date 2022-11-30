@@ -1,0 +1,3 @@
+i am sample text
+
+preventDefault() => prevent submitting the file
